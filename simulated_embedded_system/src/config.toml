@@ -1,0 +1,15 @@
+[sensors]
+temperature_sampling_rate = 1
+humidity_sampling_rate = 2
+light_sampling_rate = 3
+
+[storage]
+log_file_path = "sensor_logs.txt"
+
+[display]
+real_time_graph = true
+
+[alerts]
+temperature_threshold = 28.0
+humidity_threshold = 65.0
+light_threshold = 90.0
