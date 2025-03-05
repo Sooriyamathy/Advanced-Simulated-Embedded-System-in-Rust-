@@ -178,7 +178,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## **Connect with Me** 🌐
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sooriyamathy/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sooriyamathy/)
 
 ---
 
